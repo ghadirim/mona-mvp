@@ -2,9 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.monaghadiri.com/categories/</loc>
+    <loc>https://www.monaghadiri.com/about/</loc>
+    <lastmod>2025-04-03T18:03:56-04:00</lastmod>
+  </url><url>
+    <loc>https://www.monaghadiri.com/blog/</loc>
+    <lastmod>2025-04-03T18:03:56-04:00</lastmod>
+  </url><url>
+    <loc>https://www.monaghadiri.com/contact/</loc>
+    <lastmod>2025-04-03T18:03:56-04:00</lastmod>
+  </url><url>
+    <loc>https://www.monaghadiri.com/projects/</loc>
+    <lastmod>2025-04-03T18:03:56-04:00</lastmod>
+  </url><url>
+    <loc>https://www.monaghadiri.com/projects/security-research/</loc>
+    <lastmod>2025-04-03T18:03:56-04:00</lastmod>
+  </url><url>
+    <loc>https://www.monaghadiri.com/blog/my-first-post/</loc>
+    <lastmod>2025-04-03T18:03:56-04:00</lastmod>
   </url><url>
     <loc>https://www.monaghadiri.com/</loc>
+    <lastmod>2025-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.monaghadiri.com/categories/</loc>
   </url><url>
     <loc>https://www.monaghadiri.com/tags/</loc>
   </url>
